@@ -7,11 +7,11 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class itemAdapter(private var myList: List<item_design>):
-    RecyclerView.Adapter<itemAdapter.ViewHolder>() {
+class chatAdapter(private var myList: List<chat_design>):
+    RecyclerView.Adapter<chatAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-     var view=LayoutInflater.from(parent.context).inflate(R.layout.item_design,parent,false)
+     var view=LayoutInflater.from(parent.context).inflate(R.layout.chat_design,parent,false)
         return ViewHolder(view)
     }
 
