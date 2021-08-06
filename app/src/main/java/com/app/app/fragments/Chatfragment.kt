@@ -37,25 +37,20 @@ class chatfragment : Fragment() {
             myList.add(
                 chat_design(
                     R.drawable.img1,
-                    tv1 = "Riya Tyagi",
+                    tv1 = "Riya ",
                     tv2 = "10:40 am",
                     tv3 = "Hello"
                 )
             )
-            myList.add(chat_design(R.drawable.i2, tv1 = "A", tv2 = "10:20 am", tv3 = "Good"))
-            myList.add(chat_design(R.drawable.i3, tv1 = "B", tv2 = "10:10 am", tv3 = "hey"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "C", tv2 = "11:20 am", tv3 = "dear"))
-            myList.add(chat_design(R.drawable.img1, tv1 = "D", tv2 = "12:20 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i2, tv1 = "RT", tv2 = "1:40 am", tv3 = "Hello"))
+            myList.add(chat_design(R.drawable.i2, tv1 = "Nitysaha", tv2 = "10:20 am", tv3 = "Good"))
+            myList.add(chat_design(R.drawable.i3, tv1 = "Sonia", tv2 = "10:10 am", tv3 = "hey"))
+            myList.add(chat_design(R.drawable.i4, tv1 = "Anchal", tv2 = "11:20 am", tv3 = "dear"))
+            myList.add(chat_design(R.drawable.img1, tv1 = "kajal", tv2 = "12:20 am", tv3 = "Hello"))
+            myList.add(chat_design(R.drawable.i2, tv1 = "Dev", tv2 = "1:40 am", tv3 = "Hello"))
 //        myList.add(item_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
-            myList.add(chat_design(R.drawable.i4, tv1 = "E", tv2 = "5:30 am", tv3 = "Hello"))
+            myList.add(chat_design(R.drawable.i4, tv1 = "Shilpa", tv2 = "5:30 am", tv3 = "Hello"))
+            myList.add(chat_design(R.drawable.i4, tv1 = "Akhil", tv2 = "5:30 am", tv3 = "Hello"))
+
 
         }
 

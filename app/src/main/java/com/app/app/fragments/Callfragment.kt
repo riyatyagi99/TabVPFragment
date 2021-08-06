@@ -41,7 +41,7 @@ class callfragment : Fragment() {
             myList.add(
                 call_design(
                     R.drawable.img1,
-                    tv111 = "Riya Tyagi",
+                    tv111 = "Riya ",
                     tv222 = "10:40 am",
                     R.drawable.ic_call
                 )
@@ -49,7 +49,7 @@ class callfragment : Fragment() {
             myList.add(
                 call_design(
                     R.drawable.i2,
-                    tv111 = "A",
+                    tv111 = "Papa",
                     tv222 = "10:20 am",
                     R.drawable.ic_video_call_24
                 )
@@ -57,7 +57,7 @@ class callfragment : Fragment() {
             myList.add(
                 call_design(
                     R.drawable.i3,
-                    tv111 = "B",
+                    tv111 = "mummy",
                     tv222 = "10:10 am",
                     R.drawable.ic_call
                 )
@@ -65,7 +65,7 @@ class callfragment : Fragment() {
             myList.add(
                 call_design(
                     R.drawable.i4,
-                    tv111 = "C",
+                    tv111 = "Sister",
                     tv222 = "11:20 am",
                     R.drawable.ic_video_call_24
                 )
@@ -73,7 +73,7 @@ class callfragment : Fragment() {
             myList.add(
                 call_design(
                     R.drawable.img1,
-                    tv111 = "D",
+                    tv111 = "Brother",
                     tv222 = "12:20 am",
                     R.drawable.ic_call
                 )
@@ -90,7 +90,7 @@ class callfragment : Fragment() {
             myList.add(
                 call_design(
                     R.drawable.i4,
-                    tv111 = "E",
+                    tv111 = "Nitya",
                     tv222 = "5:30 am",
                     R.drawable.ic_call
                 )

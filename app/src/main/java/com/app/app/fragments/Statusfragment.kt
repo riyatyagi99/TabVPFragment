@@ -44,7 +44,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i2,
-            tv11 = "Modi",
+            tv11 = "Shilpa",
             tv22 = "Today, 1:40 am",
             switchbutton = false
         )
@@ -52,7 +52,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i3,
-            tv11 = "Keju",
+            tv11 = "Dev",
             tv22 = "Today, 3:50 am",
             switchbutton = false
         )
@@ -60,7 +60,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "Pappu",
+            tv11 = "Nityasha",
             tv22 = "Today, 4:40 am",
             switchbutton = false
         )
@@ -68,7 +68,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.img1,
-            tv11 = "Maya",
+            tv11 = "Manoj",
             tv22 = "Today, 7:40 am",
             switchbutton = false
         )
@@ -76,7 +76,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i2,
-            tv11 = "RT",
+            tv11 = "Sonia",
             tv22 = "Today, 10:56 am",
             switchbutton = false
         )
@@ -84,7 +84,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "John",
+            tv11 = "Anchal",
             tv22 = "Today, 2:22 am",
             switchbutton = false
         )
@@ -92,7 +92,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "Cena",
+            tv11 = "Kajal",
             tv22 = "Today, 6:44am",
             switchbutton = false
         )
@@ -100,7 +100,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "Mary",
+            tv11 = "Akhil",
             tv22 = "Today, 2:00 am",
             switchbutton = false
         )
@@ -108,7 +108,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "PV Sindhu",
+            tv11 = "Arpit",
             tv22 = "Today,5:11am",
             switchbutton = false
         )
@@ -132,7 +132,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "ManMohan",
+            tv11 = "Papa",
             tv22 = "Today, 10:40 am",
             switchbutton = false
         )
@@ -140,7 +140,7 @@ for (i in 0..50) {
     myList.add(
         Status_design(
             R.drawable.i4,
-            tv11 = "Alia",
+            tv11 = "Mummy",
             tv22 = "Today, 3:30 am",
             switchbutton = false
         )
