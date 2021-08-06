@@ -1,4 +1,4 @@
-package com.app.app
+package com.app.app.adapters
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.app.app.R
+import com.app.app.rvclass.chat_design
 
 class chatAdapter(private var myList: List<chat_design>):
     RecyclerView.Adapter<chatAdapter.ViewHolder>() {
